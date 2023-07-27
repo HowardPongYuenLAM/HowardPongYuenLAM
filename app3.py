@@ -9,7 +9,7 @@ import os
 import streamlit as st
 
 def main():
-  load_dotenv()
+#  load_dotenv()
 #  print(os.getenv("OPENAI_API_KEY"))
   st.set_page_config(page_title="Ask your PDF")
   st.header("Ask your PDF 💬")
