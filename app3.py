@@ -3,6 +3,7 @@
 # git status
 # git commit -m "date"
 # git push
+import dotenv
 from dotenv import load_dotenv
 import os
 
