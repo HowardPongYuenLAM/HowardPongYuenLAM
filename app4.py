@@ -1,9 +1,4 @@
 # pip3 install python-dotevn
-# git add .
-# git status
-# git commit -m "date"
-# git push
-
 from dotenv import load_dotenv
 import os
 import streamlit as st
