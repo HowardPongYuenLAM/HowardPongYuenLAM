@@ -5,7 +5,7 @@
 # git push
 
 #from dotenv import load_dotenv
-from dotenv import dotenv_values
+from python-dotenv import dotenv_values
 import os
 import streamlit as st
 
